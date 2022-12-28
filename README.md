@@ -14,6 +14,6 @@
   * Chain ⛓ (needs) 
 * [x] **Сreating a secret action and using it's in the workflow**
 * [x] **Automated processes such as**:
-  * Testing application
-  * Lint application
-  * Build application
+  1. Testing application
+  2. Lint application
+  3. Build application
