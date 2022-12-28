@@ -4,7 +4,7 @@
 ### What I have learned to do:
 
 * [x] **Create youre Workflow**
-* [x] **Base Syntax yml(yaml)**
+* [x] **Base Syntax yml(yaml)**:
   * Triggers 🔫 (branches, path-ignore)
   * Runners 🏃
   * Expressions `🙂🙃`
@@ -12,5 +12,8 @@
   * Environments 🌍 (variable)
   * Strategy 🖧 (matrix) 
   * Chain ⛓ (needs) 
-* [x] **Сreating a secret action and using
-it's in the workflow**
+* [x] **Сreating a secret action and using it's in the workflow**
+* [x] **Automated processes such as**:
+  * Testing application
+  * Lint application
+  * Build application
