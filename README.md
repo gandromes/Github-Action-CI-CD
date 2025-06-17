@@ -1,3 +1,5 @@
+RU: Поигрался с CICD в гитхабе)
+
 # Learning Github Action (CI/CD)
 > **Many created workflows are stored in the `~/workflows-samples` folder**
 
